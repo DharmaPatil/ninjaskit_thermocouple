@@ -1,0 +1,6 @@
+[submodule "ninjaskit"]
+	path = ninjaskit
+	url = https://github.com/supercamel/ninjaskit
+[submodule "ninjaskit_lcd"]
+	path = lcd
+	url = https://github.com/supercamel/ninjaskit_lcd
